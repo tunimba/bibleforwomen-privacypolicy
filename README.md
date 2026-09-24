@@ -100,7 +100,7 @@ If you turn on the daily reminder, the app schedules a local notification on you
 
 ## 5. Children's Privacy
 
-Sistr is intended for adults and is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided data through the app, please contact us at tunahanaktay.apps@gmail.com and we will delete it immediately.
+Sistr is intended for adults and is not directed at children under 9. We do not knowingly collect personal information from children. If you believe a child has provided data through the app, please contact us at tunahanaktay.apps@gmail.com and we will delete it immediately.
 
 ## 6. Third-Party Services
 
