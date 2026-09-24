@@ -1,6 +1,6 @@
 # Privacy Policy — Sistr
 
-Last Updated: 2026/9/24
+Last Updated: 2026/9/25
 
 ## 1. Acceptance of Terms
 
@@ -14,7 +14,7 @@ We collect the following categories of data, none of which is linked to your ide
 
 ### User Content
 
-**First Name** — Used for App Functionality, stored on-device
+**First Name** — Used for App Functionality, stored on-device (declared as "Name" on the App Store)
 
 The app asks for a first name so greetings and stories feel personal. You may leave it empty or use any name you like. The name is stored only on the device, in standard iOS user preferences. It **is included in the story request sent to the AI provider that writes story text** so the reflection and prayer can address you, and it **is included in the narration text sent to the text-to-speech provider** so the narrator can pronounce it. It is not sent to the AI provider that paints illustrations, and no other identifying metadata is attached to any request.
 
@@ -48,9 +48,9 @@ Crash reports and basic diagnostic information (for example error logs) are coll
 
 ### Other Data
 
-**Other Data Types** — Used for App Functionality
+**Other Data Types** — Used for App Functionality, Analytics, and Other Purposes
 
-Anonymous service data, including IP address, is collected by our AI routing proxy to ensure secure AI service delivery. This data is not linked to your identity.
+Anonymous service data, including IP address, is collected by our AI routing proxy to ensure secure AI service delivery, and your age in whole years travels with a story request as described in Section 3. This data is not linked to your identity.
 
 ## 3. How AI Story Generation Works
 
